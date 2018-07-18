@@ -1,0 +1,18 @@
+14:22:26
+菜鸟启动----->
+*---*
+14:27:38
+菜鸟启动----->
+*---*
+14:30:22
+菜鸟启动----->
+*---*
+14:31:05
+----->{"cmd":"print","version":"1.0","requestID":"20180612143022","task":{"preview":false,"printer":"","previewType":"pdf","firstDocumentNumber":10.0,"totalDocumentCount":100.0,"taskID":"20180612143022","documents":[{"documentID":"800120315204064782","contents":[{"data":{"cpCode":"YTO","needEncrypt":false,"parent":false,"recipient":{"address":{"city":"北京市","detail":"北京西城区二环到三环真武庙二条十号楼金融世家一单元","district":"西城区","province":"北京"},"mobile":"13901151161","name":"闻碧静"},"routingInfo":{"consolidation":{"code":"100955"},"origin":{"code":"519001","name":"江苏省常州市"},"sortation":{"name":"100北京"}},"sender":{"address":{"city":"常州市","detail":"玉龙中路39号3楼新华书店仓库","district":"新北区","province":"江苏省"},"name":"常州新华图书","phone":"0519-85338241"},"shippingOption":{"code":"STANDARD_EXPRESS","title":"标准快递"},"waybillCode":"800120315204064782"},"signature":"MD:nh2kHrfEKHaWLWS6s2C6dg==","templateURL":"http://cloudprint.cainiao.com/template/standard/101"},{"data":{"tids":"1232123123123","jxdh":"JXDH0001","zjxh":"21","codecs":"12234567890"},"templateURL":"http://cloudprint.cainiao.com/template/customArea/6299936"}]}]}}
+*---*
+14:31:07
+----->{"cmd":"print","msg":"成功","requestID":"20180612143022","status":"success","taskID":"20180612143022"}
+*---*
+14:31:08
+----->{"cmd":"notifyPrintResult","printStatus":[{"detail":"","documentID":"800120315204064782","msg":"成功","printer":"NPIC3BB75 (HP LaserJet Pro MFP M521dw)","status":"success"}],"printer":"NPIC3BB75 (HP LaserJet Pro MFP M521dw)","requestID":"20180612143022","taskID":"20180612143022","taskStatus":"rendered"}
+*---*

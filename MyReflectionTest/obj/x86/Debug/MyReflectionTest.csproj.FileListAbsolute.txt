@@ -1,0 +1,7 @@
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\bin\x86\Debug\MyReflectionTest.exe.config
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\bin\x86\Debug\MyReflectionTest.exe
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\bin\x86\Debug\MyReflectionTest.pdb
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\bin\x86\Debug\K12DbWork.dll
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\obj\x86\Debug\MyReflectionTest.csprojResolveAssemblyReference.cache
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\obj\x86\Debug\MyReflectionTest.exe
+D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\obj\x86\Debug\MyReflectionTest.pdb

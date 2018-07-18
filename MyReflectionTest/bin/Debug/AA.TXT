@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <tid>75450031829009606</tid>
+    <num>0</num>
+    <num_iid>0</num_iid>
+    <status>卖家已发货</status>
+    <title>钟华图书专营店</title>
+    <type>fixed</type>
+    <price />
+    <discount_fee>0.00</discount_fee>
+    <has_post_fee>false</has_post_fee>
+    <total_fee>67.72</total_fee>
+    <created>2017-10-28 13:13:14</created>
+    <pay_time>2017-10-28 13:13:33</pay_time>
+    <modified>2017-10-30 08:57:07</modified>
+    <end_time />
+    <buyer_message />
+    <buyer_memo />
+    <buyer_flag>0</buyer_flag>
+    <seller_memo />
+    <seller_flag>0</seller_flag>
+    <invoice_name />
+    <buyer_nick>肥猫阿宝06</buyer_nick>
+    <credit_card_fee>67.72</credit_card_fee>
+    <step_trade_status />
+    <step_paid_fee />
+    <mark_desc />
+    <shipping_type>express</shipping_type>
+    <buyer_cod_fee>0.00</buyer_cod_fee>
+    <adjust_fee>0.00</adjust_fee>
+    <trade_from>WAP,WAP</trade_from>
+    <buyer_rate>false</buyer_rate>
+    <seller_nick>钟华图书专营店</seller_nick>
+    <pic_path />
+    <payment>67.72</payment>
+    <seller_rate>false</seller_rate>
+    <post_fee>0.00</post_fee>
+    <receiver_name>王丹丹</receiver_name>
+    <receiver_state>河南省</receiver_state>
+    <receiver_city>濮阳市</receiver_city>
+    <receiver_district>华龙区</receiver_district>
+    <receiver_address>中原油田街道 苏北路世纪景园85号楼1单元501</receiver_address>
+    <receiver_zip>475300</receiver_zip>
+    <receiver_mobile>13903938382</receiver_mobile>
+    <receiver_phone />
+    <consign_time>2017-10-30 08:57:08</consign_time>
+    <received_payment>0.00</received_payment>
+  </Table1>
+  <Table2>
+    <oid>75450031830009606</oid>
+    <status>等待买家确认收货</status>
+    <title>二狗妈妈的小厨房之蛋糕与蛋糕卷 乖乖与臭臭的妈 零基础一学就会家常菜系列 生活菜谱烹饪 上海书城 新华书店</title>
+    <price>33.86</price>
+    <num_iid>560393796162</num_iid>
+    <item_meal_id>0</item_meal_id>
+    <sku_id />
+    <num>1</num>
+    <outer_sku_id />
+    <order_from>WAP,WAP</order_from>
+    <total_fee>33.86</total_fee>
+    <payment>33.86</payment>
+    <discount_fee>0.00</discount_fee>
+    <adjust_fee>0.00</adjust_fee>
+    <modified />
+    <sku_properties_name />
+    <refund_id>0</refund_id>
+    <is_oversold>false</is_oversold>
+    <is_service_order>false</is_service_order>
+    <end_time />
+    <item_meal_name />
+    <pic_path>https://img.alicdn.com/bao/uploaded/i1/3417227697/TB1tSHubfv85uJjSZFxXXal4XXa_!!0-item_pic.jpg</pic_path>
+    <seller_nick />
+    <buyer_nick />
+    <refund_status>NO_REFUND</refund_status>
+    <outer_iid>1102835571</outer_iid>
+    <snapshot_url>m:75450031830009606_1</snapshot_url>
+    <snapshot />
+    <timeout_action_time>2017-11-09 08:57:08</timeout_action_time>
+    <buyer_rate>false</buyer_rate>
+    <seller_rate>false</seller_rate>
+    <seller_type>B</seller_type>
+    <cid>50498008</cid>
+  </Table2>
+  <Table2>
+    <oid>75450031831009606</oid>
+    <status>等待买家确认收货</status>
+    <title>二狗妈妈的小厨房之自制面包 乖乖与臭臭的妈 零基础一学就会家常菜系列 生活菜谱烹饪 上海书城 新华书店</title>
+    <price>33.86</price>
+    <num_iid>560617039891</num_iid>
+    <item_meal_id>0</item_meal_id>
+    <sku_id />
+    <num>1</num>
+    <outer_sku_id />
+    <order_from>WAP,WAP</order_from>
+    <total_fee>33.86</total_fee>
+    <payment>33.86</payment>
+    <discount_fee>0.00</discount_fee>
+    <adjust_fee>0.00</adjust_fee>
+    <modified />
+    <sku_properties_name />
+    <refund_id>0</refund_id>
+    <is_oversold>false</is_oversold>
+    <is_service_order>false</is_service_order>
+    <end_time />
+    <item_meal_name />
+    <pic_path>https://img.alicdn.com/bao/uploaded/i1/3417227697/TB1rcQiq3oQMeJjy0FoXXcShVXa_!!0-item_pic.jpg</pic_path>
+    <seller_nick />
+    <buyer_nick />
+    <refund_status>NO_REFUND</refund_status>
+    <outer_iid>1102835569</outer_iid>
+    <snapshot_url>m:75450031831009606_1</snapshot_url>
+    <snapshot />
+    <timeout_action_time>2017-11-09 08:57:08</timeout_action_time>
+    <buyer_rate>false</buyer_rate>
+    <seller_rate>false</seller_rate>
+    <seller_type>B</seller_type>
+    <cid>121956004</cid>
+  </Table2>
+</NewDataSet>
