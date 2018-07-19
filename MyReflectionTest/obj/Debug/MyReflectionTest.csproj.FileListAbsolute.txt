@@ -4,3 +4,9 @@ D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\bin\Debug\MyReflec
 D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\obj\Debug\MyReflectionTest.csprojResolveAssemblyReference.cache
 D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\obj\Debug\MyReflectionTest.exe
 D:\测试\Reflection-反射\MyReflectionTest\MyReflectionTest\obj\Debug\MyReflectionTest.pdb
+D:\测试\MyGitHub\HelloCodeWorld\MyReflectionTest\bin\Debug\MyReflectionTest.exe.config
+D:\测试\MyGitHub\HelloCodeWorld\MyReflectionTest\obj\Debug\MyReflectionTest.exe
+D:\测试\MyGitHub\HelloCodeWorld\MyReflectionTest\obj\Debug\MyReflectionTest.pdb
+D:\测试\MyGitHub\HelloCodeWorld\MyReflectionTest\bin\Debug\MyReflectionTest.exe
+D:\测试\MyGitHub\HelloCodeWorld\MyReflectionTest\bin\Debug\MyReflectionTest.pdb
+D:\测试\MyGitHub\HelloCodeWorld\MyReflectionTest\obj\Debug\MyReflectionTest.csprojResolveAssemblyReference.cache
